@@ -15,14 +15,15 @@ namespace HamburgersAPI.Controllers
 
     public class ContactosController : Controller
     {
+        // private HamburgersContext context = new HamburgersContext();
         private UnitOfWork unitOfWork = new UnitOfWork(new HamburgersContext());
 
-        [HttpGet("idUsuario")]
+        [HttpGet("{idUsuario}")]
 
         public IActionResult GetContacts(int idUsuario)
         {
-            
-            if (idUsuario !=0)
+
+            if (idUsuario != 0)
             {
 
                 var user = unitOfWork.Usuarios.Get(x => x.Id == idUsuario);
@@ -40,12 +41,51 @@ namespace HamburgersAPI.Controllers
                     return Ok(serializedList);
                 }
                 else
-               
+
                     return BadRequest();
             }
             else
 
                 return BadRequest();
+        }
+
+        private ContactoList CreateMappedObject(IEnumerable<Contacto> contactos, int idUsuario)
+        {
+
+            ContactoList listaAmigos = new ContactoList();
+            var user = unitOfWork.Usuarios.GetById(idUsuario);
+            foreach (var item in contactos)
+            {
+
+                Usuario contactoAmigo = unitOfWork.Usuarios.GetById(item.IdContacto);
+                listaAmigos.contactosAgregados.Add(contactoAmigo);
+
+
+            }
+
+            listaAmigos.usuario = user;
+            return listaAmigos;
+
+        }
+
+        [HttpGet("{id}/{contactoid, }")]
+        public IActionResult GetContactDetails(int Id, bool isFriend)
+        {
+            if (isFriend)
+            {
+
+                var contacto = unitOfWork.Contactos.Get(c => c.Id == Id);
+                if (contacto != null)
+                    return Ok(contacto);
+                else
+                {
+                    return NoContent();
+                }
+            }
+            else
+            {
+                return NoContent();
+            }
         }
 
         [HttpPost("{idUsuario}")]
@@ -74,27 +114,9 @@ namespace HamburgersAPI.Controllers
             return BadRequest(contactoAmigo);
         }
 
-        private ContactoList CreateMappedObject(IEnumerable<Contacto> contactos, int idUsuario)
-        {
-
-            ContactoList listaAmigos = new ContactoList();
-            foreach (var item in contactos)
-            {
-
-                Usuario contactoAmigo = unitOfWork.Usuarios.GetById(item.IdContacto);
-                listaAmigos.contactosAgregados.Add(contactoAmigo);
 
 
-            }
-
-            listaAmigos.idUser = idUsuario;
-            return listaAmigos;
-           
-        }
-
-       
-
-        [HttpPut]
+        [HttpPut("{id}")]
 
         public IActionResult UpdateContact([FromRoute] int id, [FromBody] Contacto contacto)
         {
@@ -127,7 +149,7 @@ namespace HamburgersAPI.Controllers
            
         }
 
-        [HttpDelete("id")]
+        [HttpDelete("{id}")]
 
         public IActionResult DeleteUser(int id)
         {

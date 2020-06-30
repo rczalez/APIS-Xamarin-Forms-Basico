@@ -33,7 +33,7 @@ namespace HamburgersAPI.Controllers
 
 
 
-        [HttpGet("id")]
+        [HttpGet("{id}")]
 
         public IActionResult GetById(int id)
         {
@@ -76,9 +76,29 @@ namespace HamburgersAPI.Controllers
             }
         }
 
-        [HttpDelete("id")]
+        [HttpPost]
+        public IActionResult Create([FromBody] Usuario usuario)
+        {
+                try
+                {
+                    if (ModelState.IsValid)
+                    {
+                        usuario.FechaIngreso = DateTime.Now;
+                        _unitOfWork.Usuarios.Insert(usuario);
+                        _unitOfWork.Save();
+                        return Created("HamburgernDemo/Create", usuario);
+                    }
+                }
+                    catch (DataException ex)
+                    {
+                         return BadRequest(ex);
+                    }
+             return BadRequest(usuario);
+        }
 
-        public IActionResult DeleteUser(int id)
+        [HttpDelete]
+
+        public IActionResult DeleteUser([FromHeader] int id)
         {
             if (id != 0)
 

@@ -8,7 +8,7 @@ namespace HamburgersAPI.Entities.DTO
 {
     public class ContactoList
     {
-        public int idUser { get; set; }
-        public List<Usuario> contactosAgregados { get; set; }
+        public Usuario usuario = new Usuario();
+        public List<Usuario> contactosAgregados = new List<Usuario>();
     }
 }
