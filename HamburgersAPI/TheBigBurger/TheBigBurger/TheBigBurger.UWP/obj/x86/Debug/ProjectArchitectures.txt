@@ -1,0 +1,1 @@
+C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\TheBigBurger.UWP.csproj;x86

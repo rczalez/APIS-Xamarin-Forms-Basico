@@ -1,0 +1,14 @@
+C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger\bin\Debug\netstandard2.0\TheBigBurger.deps.json
+C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger\bin\Debug\netstandard2.0\TheBigBurger.dll
+C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger\bin\Debug\netstandard2.0\ref\TheBigBurger.dll
+C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger\bin\Debug\netstandard2.0\TheBigBurger.pdb
+C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger\obj\Debug\netstandard2.0\TheBigBurger.csprojAssemblyReference.cache
+C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger\obj\Debug\netstandard2.0\TheBigBurger.AssemblyInfoInputs.cache
+C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger\obj\Debug\netstandard2.0\TheBigBurger.AssemblyInfo.cs
+C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger\obj\Debug\netstandard2.0\TheBigBurger.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger\obj\Debug\netstandard2.0\TheBigBurger.dll
+C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger\obj\Debug\netstandard2.0\ref\TheBigBurger.dll
+C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger\obj\Debug\netstandard2.0\TheBigBurger.pdb
