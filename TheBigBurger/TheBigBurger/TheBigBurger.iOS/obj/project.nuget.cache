@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dd8dLUxOKM8KiXwwg7Kjkv1Q2nhtRFRP+R81Q5LEuNlmzPeKyy4mXY+HePiG06lRKYbgVLf771+TWqNPUH/21w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rober\\Documents\\Visual Studio 2019\\Projects\\APIS-Xamarin-Forms-Basico\\TheBigBurger\\TheBigBurger\\TheBigBurger.iOS\\TheBigBurger.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
