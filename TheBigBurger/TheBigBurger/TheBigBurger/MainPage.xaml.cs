@@ -17,5 +17,10 @@ namespace TheBigBurger
         {
             InitializeComponent();
         }
+
+        private async void Page2(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Page2());
+        }
     }
 }

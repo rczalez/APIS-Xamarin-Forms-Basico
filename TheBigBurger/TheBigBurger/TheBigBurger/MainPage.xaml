@@ -6,43 +6,24 @@
              mc:Ignorable="d"
              x:Class="TheBigBurger.MainPage">
 
-    <!--<StackLayout>
-        --><!-- Recuerden que la orientacion por defecto es vertical--><!--
+    <Grid Padding="20" VerticalOptions="CenterAndExpand">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+        </Grid.RowDefinitions>
 
-        <Button BackgroundColor="DarkBlue"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="5*" />
+            <ColumnDefinition Width="5*" />
+        </Grid.ColumnDefinitions>
+        <Label Text="Titulo" Grid.Row="0" Grid.Column="0"/>
+        <Entry Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Placeholder="Título" HorizontalOptions="FillAndExpand"/>
+        <Label Text="Descripción" Grid.Row="2" Grid.Column="0"/>
+        <Entry Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Placeholder="Descripción"  HorizontalOptions="FillAndExpand"/>
+        <Button Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2"  HorizontalOptions="FillAndExpand" Text="Segunda Página" TextColor="White" BackgroundColor="DarkBlue" Clicked="Page2"/>
+    </Grid>
 
-        <Button BackgroundColor="DarkBlue"/>
-
-        <StackLayout Orientation="Horizontal">
-
-            <Button BackgroundColor="Blue"/>
-
-            <Button BackgroundColor="DarkBlue"/>
-
-        </StackLayout>-->
-
-        <Grid>
-            <Grid.RowDefinitions>
-                <RowDefinition Height="100"/>
-                <RowDefinition Height="150"/>
-                <RowDefinition Height="*"/>
-            </Grid.RowDefinitions>
-
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="*"/>
-                <ColumnDefinition  Width="*"/>
-            </Grid.ColumnDefinitions>
-
-            <Button BackgroundColor="Blue" Grid.Row="0" Grid.Column="0"/>
-            <Button BackgroundColor="Indigo" Grid.Row="0" Grid.Column="1"/>
-            <Button BackgroundColor="Blue" Grid.Row="1" Grid.Column="0"/>
-            <Button BackgroundColor="Indigo" Grid.Row="1" Grid.Column="1"/>
-            <Button BackgroundColor="Blue" Grid.Row="2" Grid.Column="0"/>
-            <Button BackgroundColor="Indigo" Grid.Row="2" Grid.Column="1"/>
-        </Grid>
-
-    <!--</StackLayout>-->
-
-  
 
 </ContentPage>
