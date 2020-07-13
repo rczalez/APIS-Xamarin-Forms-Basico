@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=7ba7f414-4beb-4403-905f-29b166680413</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>09110F93AADCB582764228528373B36A17231F64EC83F36D6DC4EAB7EEBDDF71</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>a90f4ff3-d1c1-4824-bef1-1fb8de8ecff8_1.0.0.0_x86__ser3zsghwfdky</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>a90f4ff3-d1c1-4824-bef1-1fb8de8ecff8_ser3zsghwfdky!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-07-06T02:43:37.733</Modified>
+      <Modified>2020-07-13T04:09:54.821</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\bin\x86\Debug\TheBigBurger.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\bin\x86\Debug\TheBigBurger.UWP.exe">
       <PackagePath>entrypoint\TheBigBurger.UWP.exe</PackagePath>
-      <Modified>2020-07-06T02:43:19.378</Modified>
+      <Modified>2020-07-13T04:09:23.934</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rober\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.9\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -718,9 +718,9 @@
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2020-03-25T05:31:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger\bin\Debug\netstandard2.0\TheBigBurger.dll">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger\bin\Debug\netstandard2.0\TheBigBurger.dll">
       <PackagePath>TheBigBurger.dll</PackagePath>
-      <Modified>2020-07-06T03:19:27.974</Modified>
+      <Modified>2020-07-13T04:08:57.491</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rober\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -734,156 +734,156 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
       <Modified>2020-03-25T05:31:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:04.499</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:04.512</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:04.515</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:04.519</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:04.522</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:04.679</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:04.710</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:04.713</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:04.719</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:04.722</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:04.724</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:04.863</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:04.865</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:04.899</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:04.904</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:04.907</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:04.908</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:05.038</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:05.041</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:05.045</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:05.053</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:05.058</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:05.178</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:05.181</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:05.185</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:05.271</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-06T02:36:05.277</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2020-07-06T02:36:05.405</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\bin\x86\Debug\TheBigBurger.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\bin\x86\Debug\TheBigBurger.UWP.xr.xml">
       <PackagePath>TheBigBurger.UWP.xr.xml</PackagePath>
-      <Modified>2020-07-06T02:43:18.809</Modified>
+      <Modified>2020-07-13T02:01:05.211</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-07-06T02:43:18.901</Modified>
+      <Modified>2020-07-13T04:09:23.534</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-07-06T02:43:18.901</Modified>
+      <Modified>2020-07-13T04:09:23.535</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -897,13 +897,13 @@
       <PackagePath>WinMetadata\Microsoft.UI.Xaml.winmd</PackagePath>
       <Modified>2019-12-12T08:48:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-07-06T02:43:29.987</Modified>
+      <Modified>2020-07-13T04:09:30.936</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\HamburgersAPI\TheBigBurger\TheBigBurger\TheBigBurger.UWP\bin\x86\Debug\Core\TheBigBurger.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\rober\Documents\Visual Studio 2019\Projects\APIS-Xamarin-Forms-Basico\TheBigBurger\TheBigBurger\TheBigBurger.UWP\bin\x86\Debug\Core\TheBigBurger.UWP.exe">
       <PackagePath>TheBigBurger.UWP.exe</PackagePath>
-      <Modified>2020-07-06T02:43:37.583</Modified>
+      <Modified>2020-07-13T04:09:54.812</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
